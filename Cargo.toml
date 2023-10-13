@@ -3,5 +3,6 @@ resolver = "2"
 
 members = [
     "plus-minus",
-    "mini-max-sum"
+    "mini-max-sum",
+    "time-conversion"
 ]
