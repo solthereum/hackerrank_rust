@@ -2,5 +2,6 @@
 resolver = "2"
 
 members = [
-    "plus-minus"
+    "plus-minus",
+    "mini-max-sum"
 ]
