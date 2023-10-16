@@ -4,5 +4,6 @@ resolver = "2"
 members = [
     "plus-minus",
     "mini-max-sum",
-    "time-conversion"
+    "time-conversion",
+    "breaking-records"
 ]
