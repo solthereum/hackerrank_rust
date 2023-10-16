@@ -1,6 +1,6 @@
 use std::io::{self, BufRead};
 
-fn plusMinus(arr: &[i32]) {
+fn plus_minus(arr: &[i32]) {
     let length = arr.len();
     let mut zero_count = 0;
     let mut plus_count = 0;
@@ -27,7 +27,7 @@ fn main() {
     let stdin = io::stdin();
     let mut stdin_iterator = stdin.lock().lines();
 
-    let n = stdin_iterator.next()
+    let _ = stdin_iterator.next()
                     .unwrap()
                     .unwrap()
                     .trim()
@@ -41,5 +41,5 @@ fn main() {
                             .map(|s| s.to_string().parse::<i32>().unwrap())
                             .collect();
 
-    plusMinus(&arr);
+                            plus_minus(&arr);
 }

@@ -1,6 +1,6 @@
 use std::io::{self, BufRead};
 
-fn miniMaxSum(arr: &[i32]) {
+fn mini_max_sum(arr: &[i32]) {
     let mut sum: i64 = 0;
     let mut max: i32 = 0;
     let mut min: i32 = 1_000_000_000;
@@ -30,5 +30,5 @@ fn main() {
         .map(|s| s.to_string().parse::<i32>().unwrap())
         .collect();
 
-    miniMaxSum(&arr);
+    mini_max_sum(&arr);
 }

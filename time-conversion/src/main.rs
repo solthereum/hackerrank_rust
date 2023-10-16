@@ -1,8 +1,6 @@
-use std::env;
-use std::fs::File;
-use std::io::{self, BufRead, Write};
+use std::io::{self, BufRead};
 
-fn timeConversion(s: &str) -> String {    
+fn time_conversion(s: &str) -> String {    
     if &s[s.len() - 2..] == "AM" {
         if &s[..2] == "12" {
             "00".to_string() + &s[2..s.len() - 2]
@@ -24,7 +22,7 @@ fn main() {
 
     let input_string = stdin_iterator.next().unwrap().unwrap();
 
-    let converted_time = timeConversion(&input_string);
+    let converted_time = time_conversion(&input_string);
 
     println!("{}", converted_time);
 }

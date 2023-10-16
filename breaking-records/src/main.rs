@@ -1,4 +1,3 @@
-use std::env;
 use std::io::{self, BufRead};
 
 fn breaking_records(scores: &[i32]) -> Vec<i32> {
