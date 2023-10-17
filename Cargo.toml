@@ -6,5 +6,6 @@ members = [
     "mini-max-sum",
     "time-conversion",
     "breaking-records",
-    "camel-case"
+    "camel-case",
+    "divisible-sum-pairs"
 ]
