@@ -8,5 +8,6 @@ members = [
     "breaking-records",
     "camel-case",
     "divisible-sum-pairs",
-    "sparse-arrays"
+    "sparse-arrays",
+    "lonely-integer"
 ]
