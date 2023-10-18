@@ -15,6 +15,10 @@ name = "divisible-sum-pairs"
 version = "0.1.0"
 
 [[package]]
+name = "flipping-bits"
+version = "0.1.0"
+
+[[package]]
 name = "grading-students"
 version = "0.1.0"
 
