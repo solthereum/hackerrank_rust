@@ -9,5 +9,6 @@ members = [
     "camel-case",
     "divisible-sum-pairs",
     "sparse-arrays",
-    "lonely-integer"
+    "lonely-integer",
+    "read-inputs"
 ]
