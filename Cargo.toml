@@ -7,5 +7,6 @@ members = [
     "time-conversion",
     "breaking-records",
     "camel-case",
-    "divisible-sum-pairs"
+    "divisible-sum-pairs",
+    "sparse-arrays"
 ]
