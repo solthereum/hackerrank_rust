@@ -10,5 +10,6 @@ members = [
     "divisible-sum-pairs",
     "sparse-arrays",
     "lonely-integer",
-    "read-inputs"
+    "read-inputs",
+    "grading-students"
 ]
