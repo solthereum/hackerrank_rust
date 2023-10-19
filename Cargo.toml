@@ -12,5 +12,6 @@ members = [
     "lonely-integer",
     "read-inputs",
     "grading-students",
-    "flipping-bits"
+    "flipping-bits",
+    "diagonal-difference"
 ]
