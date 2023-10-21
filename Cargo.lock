@@ -39,6 +39,10 @@ name = "lonely-integer"
 version = "0.1.0"
 
 [[package]]
+name = "mars-exploration"
+version = "0.1.0"
+
+[[package]]
 name = "mini-max-sum"
 version = "0.1.0"
 

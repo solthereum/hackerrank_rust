@@ -16,5 +16,6 @@ members = [
     "diagonal-difference",
     "counting-sort",
     "counting-valleys",
-    "pangrams"
+    "pangrams",
+    "mars-exploration"
 ]
