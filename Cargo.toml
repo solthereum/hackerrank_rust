@@ -15,5 +15,6 @@ members = [
     "flipping-bits",
     "diagonal-difference",
     "counting-sort",
-    "counting-valleys"
+    "counting-valleys",
+    "pangrams"
 ]
