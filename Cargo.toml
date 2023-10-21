@@ -14,5 +14,6 @@ members = [
     "grading-students",
     "flipping-bits",
     "diagonal-difference",
-    "counting-sort"
+    "counting-sort",
+    "counting-valleys"
 ]

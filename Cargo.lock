@@ -15,6 +15,10 @@ name = "counting-sort"
 version = "0.1.0"
 
 [[package]]
+name = "counting-valleys"
+version = "0.1.0"
+
+[[package]]
 name = "diagonal-difference"
 version = "0.1.0"
 
