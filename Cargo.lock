@@ -3,65 +3,161 @@
 version = 3
 
 [[package]]
-name = "breaking-records"
+name = "a-very-big-sum"
 version = "0.1.0"
 
 [[package]]
-name = "camel-case"
+name = "abbreviation"
 version = "0.1.0"
 
 [[package]]
-name = "counting-sort"
+name = "bead-ornaments"
 version = "0.1.0"
 
 [[package]]
-name = "counting-valleys"
+name = "bear-and-steady-gene"
 version = "0.1.0"
 
 [[package]]
-name = "diagonal-difference"
+name = "bigger-is-greater"
 version = "0.1.0"
 
 [[package]]
-name = "divisible-sum-pairs"
+name = "climbing-the-leaderboard"
 version = "0.1.0"
 
 [[package]]
-name = "flipping-bits"
+name = "coin-change"
 version = "0.1.0"
 
 [[package]]
-name = "grading-students"
+name = "common-child"
 version = "0.1.0"
 
 [[package]]
-name = "lonely-integer"
+name = "compare-the-triplets"
 version = "0.1.0"
 
 [[package]]
-name = "mars-exploration"
+name = "connected-cell-in-grid"
 version = "0.1.0"
 
 [[package]]
-name = "mini-max-sum"
+name = "extra-long-factorials"
 version = "0.1.0"
 
 [[package]]
-name = "pangrams"
+name = "gena-playing-hanoi"
 version = "0.1.0"
 
 [[package]]
-name = "plus-minus"
+name = "journey-to-moon"
 version = "0.1.0"
 
 [[package]]
-name = "read-inputs"
+name = "larry-array"
 version = "0.1.0"
 
 [[package]]
-name = "sparse-arrays"
+name = "lego-blocks"
 version = "0.1.0"
 
 [[package]]
-name = "time-conversion"
+name = "longest-common-subsequence"
+version = "0.1.0"
+
+[[package]]
+name = "magic-square-forming"
+version = "0.1.0"
+
+[[package]]
+name = "matrix-rotation-algo"
+version = "0.1.0"
+
+[[package]]
+name = "minimum-loss"
+version = "0.1.0"
+
+[[package]]
+name = "morgan-and-string"
+version = "0.1.0"
+
+[[package]]
+name = "non-divisible-subset"
+version = "0.1.0"
+
+[[package]]
+name = "pairs"
+version = "0.1.0"
+
+[[package]]
+name = "play-with-words"
+version = "0.1.0"
+
+[[package]]
+name = "queens-attack2"
+version = "0.1.0"
+
+[[package]]
+name = "really-special-subtree"
+version = "0.1.0"
+
+[[package]]
+name = "red-john-is-back"
+version = "0.1.0"
+
+[[package]]
+name = "roads-and-libraries"
+version = "0.1.0"
+
+[[package]]
+name = "sam-substrings"
+version = "0.1.0"
+
+[[package]]
+name = "sherlock-and-anagrams"
+version = "0.1.0"
+
+[[package]]
+name = "short-palindrome"
+version = "0.1.0"
+
+[[package]]
+name = "shortest-reach"
+version = "0.1.0"
+
+[[package]]
+name = "simple-array-sum"
+version = "0.1.0"
+
+[[package]]
+name = "snakes-and-ladders"
+version = "0.1.0"
+
+[[package]]
+name = "solve-me-first"
+version = "0.1.0"
+
+[[package]]
+name = "special-subtree"
+version = "0.1.0"
+
+[[package]]
+name = "stock-maximize"
+version = "0.1.0"
+
+[[package]]
+name = "string-similarity"
+version = "0.1.0"
+
+[[package]]
+name = "the-time-in-words"
+version = "0.1.0"
+
+[[package]]
+name = "threed-surface-area"
+version = "0.1.0"
+
+[[package]]
+name = "unbounded-knapsack"
 version = "0.1.0"
